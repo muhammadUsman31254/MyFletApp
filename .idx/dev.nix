@@ -6,7 +6,7 @@
 
   packages = [
     pkgs.python3
-    pkgs.jdk20
+    pkgs.jdk17 # Adjust Java version if needed
   ];
 
   # environment variables
